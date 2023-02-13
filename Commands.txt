@@ -3,3 +3,5 @@ Hellow guys --> Git starts here
 there is an untracked activity
 
 there is another untracked activity
+
+git commands
